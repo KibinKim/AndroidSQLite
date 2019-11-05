@@ -1,1 +1,1 @@
-# Android-Thread-Handler-Data-Queue-
+# Android SQLite used
