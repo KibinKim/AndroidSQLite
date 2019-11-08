@@ -1,3 +1,6 @@
+# DatabaseHelper 구현
+...
+
 package com.example.sqlpractice;
 
 import android.content.Context;
@@ -42,3 +45,5 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         }
     }
 }
+
+...
